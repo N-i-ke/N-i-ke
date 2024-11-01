@@ -1,7 +1,4 @@
 ## My Profile
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-i-ke&layout=compact&theme=dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-i-ke&layout=compact&theme=dark)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-i-ke&layout=compact&theme=dark" />
