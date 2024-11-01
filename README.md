@@ -1,4 +1,4 @@
-## My Profile
+## About me
 
 <p align="left"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-i-ke&layout=compact&theme=dark" />
