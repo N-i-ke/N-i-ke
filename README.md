@@ -3,7 +3,7 @@
 <p align="left"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-i-ke&layout=compact&theme=dark" />
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=N-i-ke&layout=compact&theme=dark" />
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,vue,react,next,figma,docker,shopify,wordpress" />
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,vue,react,next,figma,docker,wordpress" />
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=N-i-ke&layout=compact&theme=dark)
