@@ -6,7 +6,6 @@
   <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,vue,react,next,figma,docker,wordpress" />
 </p>
 
-![Activity Graph](./assets/github-activity.png)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=N-i-ke&layout=compact&theme=dark)
 
