@@ -7,7 +7,6 @@
 </p>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=N-i-ke&layout=compact&theme=dark)
 
 <!--
 **N-i-ke/N-i-ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
