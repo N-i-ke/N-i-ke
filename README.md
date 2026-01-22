@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-i-ke&layout=compact&theme=dark" />
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,react,next,vue,nuxt,nodejs,ts,figma,xd,wordpress,shopify," />
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,react,next,vue,nuxt,nodejs,ts,figma,xd,wordpress,shopify," />
 </p>
 
 
