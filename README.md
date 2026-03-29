@@ -1,4 +1,4 @@
-## About me
+## Skills
 
 <p align="left"> 
   <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,react,next,vue,nuxt,nodejs,ts,figma,xd,wordpress,shopify," />
