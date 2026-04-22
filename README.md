@@ -17,9 +17,9 @@ Jan 2026 – Present
 
 ### LINE Mini App (Lead Engineer)
 Jan 2026 – Present
-- Led development of a LINE mini app using React, Node.js, and Kubernetes
-- Designed architecture, implemented features, and handled deployment (CI/CD)
-- Built scalable infrastructure with Docker & Kubernetes
+- Led development of a LINE mini app (team of 5)
+- Built frontend using React and backend with Node.js
+- Designed and implemented CI/CD and infrastructure using Docker & Kubernetes
 
 ### Web Engineer — N2i
 Aug 2024 – Dec 2025
@@ -30,9 +30,9 @@ Aug 2024 – Dec 2025
 
 ## ⚡ Strengths
 - Strong in React / Next.js / TypeScript
-- Experience in both frontend and backend (Node.js)
-- Able to lead small teams and manage projects
-- Experience with Kubernetes and CI/CD pipelines
+- Experience leading small teams
+- Familiar with Kubernetes and CI/CD
+- Focused on performance and scalable architecture
 
 ## 🌍 Looking for
 - Remote opportunities
