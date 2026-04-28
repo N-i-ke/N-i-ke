@@ -15,7 +15,7 @@
 
 ### About Me
 
-Frontend engineer with **3+ years of production experience** shipping web platforms used by millions — from Japan's leading digital comic service **ebookjapan (LINE Digital Frontier)** to high-traffic E-commerce stores for global IPs such as *Uma Musume* and *Cygames*.
+Frontend engineer with **3+ years of production experience** shipping web platforms used by millions — from Japan's leading digital comic service **ebookjapan (LINE Digital Frontier)** to high-traffic E-commerce stores for global IPs.
 
 I lead end-to-end delivery: technical selection, architecture, implementation, automated testing, and Kubernetes-based deployment. I care deeply about **maintainable code, intent-driven design, and measurable user value**.
 
@@ -48,7 +48,7 @@ I lead end-to-end delivery: technical selection, architecture, implementation, a
 | 2026 – Present | **LINE Digital Frontier** | Lead Engineer / Web Frontend | Tech lead for LINE Mini-app; Vue/Nuxt frontend for ebookjapan; K8s deployment pipelines |
 | 2025 – Present | **Assist Co., Ltd.** | Project Manager / Engineer | Leading a 3-engineer team on AI chatbots & internal tools (Next.js + Prisma) |
 | 2024 – Present | **N2i Co., Ltd.** | Web Engineer | Full-stack HR products (Vue / Node / RSpec); refactoring & UX improvements |
-| 2023 – 2024 | **BENLY Co., Ltd.** | Lead Engineer | Shopify / WordPress E-commerce for *Uma Musume* and Cygames Store |
+| 2023 – 2024 | **BENLY Co., Ltd.** | Lead Engineer | Shopify / WordPress E-commerce |
 
 ---
 
