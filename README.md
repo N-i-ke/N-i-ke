@@ -1,58 +1,66 @@
-# Hi, I'm Kengo 👋
+<h1 align="left">Hi, I'm Kengo Nishi</h1>
 
-Frontend Engineer based in Tokyo 🇯🇵
-
-## 🚀 Tech Stack
-<p align="left"> 
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,react,next,vue,nuxt,nodejs,ts,figma,xd,wordpress,shopify," />
+<p align="left">
+  <strong>Lead Frontend Engineer</strong> based in Tokyo, Japan — open to international opportunities (remote / relocation).
 </p>
 
-## 💼 Experience
+<p align="left">
+  <a href="mailto:nishikengo169@gmail.com"><img src="https://img.shields.io/badge/Email-nishikengo169%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://n-i-ke.github.io/self-introduction/"><img src="https://img.shields.io/badge/Portfolio-Live-000000?style=flat-square&logo=react&logoColor=white" /></a>
+  <a href="https://introdution-slidev.vercel.app/1"><img src="https://img.shields.io/badge/Slides-Slidev-1B1B1F?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Tokyo,%20JP-blue?style=flat-square" />
+</p>
 
-### Frontend Engineer — LINE Digital Frontier (ebookjapan)
-Jan 2026 – Present
-- Developed and maintained frontend features using Vue.js / Nuxt.js and React
-- Improved application performance and user experience in production
-- Collaborated with cross-functional teams (design, backend, product)
+---
 
-### LINE Mini App (Lead Engineer)
-Jan 2026 – Present
-- Led development of a LINE mini app (team of 5)
-- Built frontend using React and backend with Node.js
-- Designed and implemented CI/CD and infrastructure using Docker & Kubernetes
+### About Me
 
-### Web Engineer — N2i
-Aug 2024 – Dec 2025
+Frontend engineer with **3+ years of production experience** shipping web platforms used by millions — from Japan's leading digital comic service **ebookjapan (LINE Digital Frontier)** to high-traffic E-commerce stores for global IPs such as *Uma Musume* and *Cygames*.
 
-- Built and improved web applications using React, Next.js, Vue.js, and TypeScript
-- Developed new features, improved UI/UX, and handled bug fixes
-- Worked in agile development with GitHub-based workflow (PR / issue)
+I lead end-to-end delivery: technical selection, architecture, implementation, automated testing, and Kubernetes-based deployment. I care deeply about **maintainable code, intent-driven design, and measurable user value**.
 
-## ⚡ Strengths
-- Strong in React / Next.js / TypeScript
-- Experience leading small teams
-- Familiar with Kubernetes and CI/CD
-- Focused on performance and scalable architecture
+- Currently leading a **LINE Mini-app** (React / Vite / LIFF) and Vue/Nuxt frontend for **ebookjapan** in an 18-engineer team
+- Concurrently managing a 3-engineer team building **AI Chatbots** and internal tools with **Next.js + Prisma**
+- Conduct technical interviews and contribute to scaling engineering organizations
+- Comfortable across the SDLC — from requirements & UX design to CI/CD on Kubernetes
 
-## 🌍 Looking for
-- Remote opportunities
-- Global collaboration
+---
 
-## 🔗 Portfolio
-https://introdution-slidev-3tqo.vercel.app/1
+### Tech Stack
 
+<p align="left">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-i-ke&layout=compact&theme=dark" />
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,react,next,vue,nuxt,nodejs,ts,figma,xd,wordpress,shopify," />
+</p>
 
-<!--
-**N-i-ke/N-i-ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend** — React, Next.js, Vue, Nuxt, TypeScript, Tailwind CSS, SCSS, Pinia
+**Backend** — Node.js, Express, Prisma, RSpec
+**Infra & Quality** — Docker, Kubernetes, Screwdriver.cd, Playwright, Vitest, Jest, Vite
+**Platforms** — Shopify, WordPress, LINE LIFF
+**Workflow** — GitHub Enterprise, Jira, Confluence, WBS-driven project management
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected Experience
+
+| Period | Company | Role | Highlights |
+| --- | --- | --- | --- |
+| 2026 – Present | **LINE Digital Frontier** | Lead Engineer / Web Frontend | Tech lead for LINE Mini-app; Vue/Nuxt frontend for ebookjapan; K8s deployment pipelines |
+| 2025 – Present | **Assist Co., Ltd.** | Project Manager / Engineer | Leading a 3-engineer team on AI chatbots & internal tools (Next.js + Prisma) |
+| 2024 – Present | **N2i Co., Ltd.** | Web Engineer | Full-stack HR products (Vue / Node / RSpec); refactoring & UX improvements |
+| 2023 – 2024 | **BENLY Co., Ltd.** | Lead Engineer | Shopify / WordPress E-commerce for *Uma Musume* and Cygames Store |
+
+---
+
+### What I Bring to a Team
+
+- **Ownership across the stack** — I don't stop at the component boundary. Architecture, infra, testing, and stakeholder alignment are part of the job.
+- **Cross-functional communication** — Daily experience translating business requirements into technical execution with planners, designers, and clients.
+- **Quality-first engineering** — Strong advocate of code reviews, automated testing, and refactoring as a continuous practice.
+- **Globally curious** — Eager to collaborate with international teams, contribute to product-led organizations, and grow through diverse engineering cultures.
+
+---
+
+<p align="left">
+  <a href="mailto:nishikengo169@gmail.com"><b>Let's talk →</b> nishikengo169@gmail.com</a>
+</p>
