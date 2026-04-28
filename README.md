@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Kengo Nishi</h1>
 
 <p align="left">
-  <strong>Lead Frontend Engineer</strong> based in Tokyo, Japan — open to international opportunities (remote / relocation).
+  <strong>Frontend Engineer</strong> based in Tokyo, Japan — open to international opportunities (remote / relocation).
 </p>
 
 <p align="left">
